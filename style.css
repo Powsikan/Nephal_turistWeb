@@ -1,0 +1,78 @@
+a:links{ 
+	background-color :#3399ff;
+}
+.navi:hover{
+	background-color :#CC0033;
+}
+.first{
+    font-family:  Curlz MT;
+Color : #0033CC;
+}
+.head{
+    font-family: Comic Sans MS;
+ Color : #CC0033;
+}
+.navi{
+    background:#3399ff;
+      color: white;
+    border: #3399ff;
+        
+}
+.discript{
+    margin: 0 auto;
+    
+    
+}
+
+.top{
+    width: 750px;
+    margin: 0 auto;
+}
+.photo{
+    width: 750px;
+    margin: 0 auto;
+    align-content: center;
+    padding-top: 20px;
+    border-color: #989090;
+    
+    
+}
+.container {
+  
+ 
+    width: 750px;
+    height: 250px;
+  /*margin: 0 auto;*/
+    background-image: url("images/IMG7.jpg");
+}
+     
+ .content {
+    position: absolute;
+    top: 70px;
+    background:#CBC2C3;
+   /* background: rgba(0, 0, 0, 0.5);*/
+    color:#000000;
+    width: 650px;
+    padding: 20px;
+    text-align: center;
+    left: 38px;
+     opacity: 0.6;
+     padding-top: 0px;
+     
+}
+.ho{
+    width: 120px;
+    height: 85px;
+}
+
+.ho:hover{
+  transform: scale(1.5);
+}
+.blr{
+    opacity: 0.6;
+    /*filter: blur(4px);*/
+}
+.blr:hover{
+    /*filter: blur(0px);*/
+    opacity: 1;
+}
